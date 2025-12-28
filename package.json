@@ -1,0 +1,10 @@
+{
+  "name": "l910-framework",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Минималистичный веб-фреймворк для Node.js + 4 сервиса по вариантам",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
