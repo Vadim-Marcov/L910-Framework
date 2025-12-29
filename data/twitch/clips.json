@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Epic Headshot", "streamerId": 1, "views": 500000, "duration": 30 },
+  { "id": 2, "title": "Funny Moment", "streamerId": 2, "views": 300000, "duration": 45 }
+]
