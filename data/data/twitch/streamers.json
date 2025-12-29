@@ -1,0 +1,4 @@
+[
+  { "id": 1, "nickname": "shroud", "followers": 10000000, "game": "CS:GO", "isLive": true },
+  { "id": 2, "nickname": "pokimane", "followers": 8000000, "game": "Valorant", "isLive": false }
+]
