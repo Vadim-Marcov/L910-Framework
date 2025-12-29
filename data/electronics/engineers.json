@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Петров",
+    "qualification": "Кандидат технических наук",
+    "specialization": "Электрические машины",
+    "experience_years": 12,
+    "current_load_hours": 320
+  },
+  {
+    "id": 2,
+    "name": "Мария Сидорова",
+    "qualification": "Магистр",
+    "specialization": "Электроника и схемотехника",
+    "experience_years": 7,
+    "current_load_hours": 280
+  }
+]

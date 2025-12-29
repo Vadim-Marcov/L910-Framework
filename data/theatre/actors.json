@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "Иван Петров",
+      "age": 35,
+      "experience": 10,
+      "specialization": "драма"
+    },
+    {
+      "id": 2,
+      "name": "Мария Сидорова",
+      "age": 28,
+      "experience": 6,
+      "specialization": "комедия"
+    }
+  ]

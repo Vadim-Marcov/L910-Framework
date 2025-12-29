@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Осциллограф Tektronix TBS1102B",
+    "type": "Измерительное оборудование",
+    "condition": "Исправен",
+    "last_service_date": "2025-03-12",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Трансформатор учебный ТУ-220",
+    "type": "Учебное оборудование",
+    "condition": "Требует проверки",
+    "last_service_date": "2024-11-05",
+    "available": false
+  }
+]
